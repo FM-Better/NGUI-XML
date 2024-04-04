@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ServerInfo>
+	<serverInfoDic>
+		<int>1</int>
+		<Server id="1" name="落子无悔" state="0" isNew="false"/>
+		<int>2</int>
+		<Server id="2" name="双龙戏珠" state="1" isNew="false"/>
+		<int>3</int>
+		<Server id="3" name="三足鼎立" state="2" isNew="false"/>
+		<int>4</int>
+		<Server id="4" name="四面楚歌" state="3" isNew="false"/>
+		<int>5</int>
+		<Server id="5" name="阳春白雪" state="4" isNew="false"/>
+		<int>6</int>
+		<Server id="6" name="雨后初霁" state="0" isNew="false"/>
+		<int>7</int>
+		<Server id="7" name="剑开天门" state="1" isNew="false"/>
+		<int>8</int>
+		<Server id="8" name="激流勇进" state="2" isNew="false"/>
+		<int>9</int>
+		<Server id="9" name="九九归一" state="3" isNew="false"/>
+		<int>10</int>
+		<Server id="10" name="步步生莲" state="4" isNew="false"/>
+		<int>11</int>
+		<Server id="11" name="一剑仙人跪" state="3" isNew="false"/>
+		<int>12</int>
+		<Server id="12" name="两袖青蛇" state="2" isNew="false"/>
+		<int>13</int>
+		<Server id="13" name="霜寒十九州" state="1" isNew="false"/>
+		<int>14</int>
+		<Server id="14" name="满船清梦" state="2" isNew="false"/>
+		<int>15</int>
+		<Server id="15" name="星辰府" state="1" isNew="false"/>
+		<int>16</int>
+		<Server id="16" name="将进酒" state="2" isNew="false"/>
+		<int>17</int>
+		<Server id="17" name="仙人抚我顶" state="3" isNew="false"/>
+		<int>18</int>
+		<Server id="18" name="黄粱一梦" state="2" isNew="false"/>
+		<int>19</int>
+		<Server id="19" name="挑灯看剑" state="0" isNew="false"/>
+		<int>20</int>
+		<Server id="20" name="杯莫停" state="3" isNew="false"/>
+		<int>21</int>
+		<Server id="21" name="只手摘星" state="2" isNew="false"/>
+		<int>22</int>
+		<Server id="22" name="混沌青莲" state="1" isNew="false"/>
+		<int>23</int>
+		<Server id="23" name="一气化三清" state="2" isNew="false"/>
+		<int>24</int>
+		<Server id="24" name="结发授长生" state="2" isNew="false"/>
+		<int>25</int>
+		<Server id="25" name="花醉三千客" state="1" isNew="false"/>
+		<int>26</int>
+		<Server id="26" name="众生棋盘" state="2" isNew="false"/>
+		<int>27</int>
+		<Server id="27" name="情字最杀人" state="3" isNew="false"/>
+		<int>28</int>
+		<Server id="28" name="只若初见" state="2" isNew="false"/>
+		<int>29</int>
+		<Server id="29" name="江南烟雨" state="1" isNew="false"/>
+		<int>30</int>
+		<Server id="30" name="秀色可禅" state="1" isNew="false"/>
+		<int>31</int>
+		<Server id="31" name="敬请期待" state="0" isNew="false"/>
+		<int>32</int>
+		<Server id="32" name="敬请期待" state="0" isNew="false"/>
+		<int>33</int>
+		<Server id="33" name="敬请期待" state="0" isNew="false"/>
+		<int>34</int>
+		<Server id="34" name="敬请期待" state="0" isNew="false"/>
+		<int>35</int>
+		<Server id="35" name="敬请期待" state="0" isNew="false"/>
+		<int>36</int>
+		<Server id="36" name="敬请期待" state="0" isNew="false"/>
+		<int>37</int>
+		<Server id="37" name="敬请期待" state="0" isNew="false"/>
+		<int>38</int>
+		<Server id="38" name="敬请期待" state="0" isNew="false"/>
+		<int>39</int>
+		<Server id="39" name="敬请期待" state="0" isNew="false"/>
+		<int>40</int>
+		<Server id="40" name="敬请期待" state="0" isNew="false"/>
+		<int>41</int>
+		<Server id="41" name="敬请期待" state="0" isNew="false"/>
+		<int>42</int>
+		<Server id="42" name="敬请期待" state="0" isNew="false"/>
+		<int>43</int>
+		<Server id="43" name="敬请期待" state="0" isNew="false"/>
+		<int>44</int>
+		<Server id="44" name="敬请期待" state="0" isNew="false"/>
+		<int>45</int>
+		<Server id="45" name="敬请期待" state="0" isNew="false"/>
+		<int>46</int>
+		<Server id="46" name="敬请期待" state="0" isNew="false"/>
+		<int>47</int>
+		<Server id="47" name="敬请期待" state="0" isNew="false"/>
+		<int>48</int>
+		<Server id="48" name="敬请期待" state="0" isNew="false"/>
+		<int>49</int>
+		<Server id="49" name="敬请期待" state="0" isNew="false"/>
+		<int>50</int>
+		<Server id="50" name="敬请期待" state="0" isNew="false"/>
+		<int>51</int>
+		<Server id="51" name="敬请期待" state="0" isNew="false"/>
+		<int>52</int>
+		<Server id="52" name="敬请期待" state="0" isNew="false"/>
+		<int>53</int>
+		<Server id="53" name="敬请期待" state="0" isNew="false"/>
+		<int>54</int>
+		<Server id="54" name="敬请期待" state="0" isNew="false"/>
+		<int>55</int>
+		<Server id="55" name="敬请期待" state="0" isNew="false"/>
+		<int>56</int>
+		<Server id="56" name="敬请期待" state="0" isNew="false"/>
+		<int>57</int>
+		<Server id="57" name="敬请期待" state="0" isNew="false"/>
+		<int>58</int>
+		<Server id="58" name="敬请期待" state="0" isNew="false"/>
+		<int>59</int>
+		<Server id="59" name="敬请期待" state="0" isNew="false"/>
+		<int>60</int>
+		<Server id="60" name="敬请期待" state="0" isNew="false"/>
+		<int>61</int>
+		<Server id="61" name="敬请期待" state="0" isNew="false"/>
+		<int>62</int>
+		<Server id="62" name="敬请期待" state="0" isNew="false"/>
+		<int>63</int>
+		<Server id="63" name="敬请期待" state="0" isNew="false"/>
+		<int>64</int>
+		<Server id="64" name="敬请期待" state="0" isNew="false"/>
+	</serverInfoDic>
+</ServerInfo>
